@@ -10,4 +10,5 @@ Goals
 * Learn Git and GitHub.
 * Practice creating Pull Requests.
 * Explore GitHub achievements.
+* to get badge
   
